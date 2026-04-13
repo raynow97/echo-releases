@@ -6,12 +6,12 @@
         <description>Echo update feed</description>
         <language>en</language>
         <item>
-            <title>Echo v1.0</title>
+            <title>Echo v1.1</title>
             <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/raynow97/echo-releases/releases/download/v1.0/Echo.dmg"
+                url="https://github.com/raynow97/echo-releases/releases/download/v1.1/Echo.dmg"
                 sparkle:edSignature="ybCdHC1okAKfQbAqWiiQrlL7nsvxqU5jXrrOVCBbWuaEsay8YNvrOO+kia5kRcvLd71+mtLb/WhG8WQ1sjSsBQ=="
                 length="1294722"
                 type="application/octet-stream"/>
